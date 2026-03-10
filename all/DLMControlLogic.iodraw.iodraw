@@ -51,8 +51,14 @@
         <mxCell id="LbZ2jcfUeLFGl8f1YfGV-17" value="服务器收到GET方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LbZ2jcfUeLFGl8f1YfGV-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LbZ2jcfUeLFGl8f1YfGV-19" target="LbZ2jcfUeLFGl8f1YfGV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LbZ2jcfUeLFGl8f1YfGV-19" value="之前客户端下发的dlmEnable.json里的enable值为？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="522.5" y="330" width="175" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LbZ2jcfUeLFGl8f1YfGV-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="595" y="478" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
