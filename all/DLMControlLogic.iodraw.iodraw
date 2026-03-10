@@ -15,7 +15,7 @@
             <mxPoint x="370" y="385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LbZ2jcfUeLFGl8f1YfGV-2" value="服务器收到数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LbZ2jcfUeLFGl8f1YfGV-2" value="服务器收到PUT数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LbZ2jcfUeLFGl8f1YfGV-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LbZ2jcfUeLFGl8f1YfGV-6" target="LbZ2jcfUeLFGl8f1YfGV-7">
