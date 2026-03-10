@@ -110,7 +110,7 @@
             <mxPoint x="90" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LbZ2jcfUeLFGl8f1YfGV-37" value="如果客户端收到服务器由" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LbZ2jcfUeLFGl8f1YfGV-37" value="如果客户端收到服务器以dlmEnable.json方法返回的重启需求时客户端此时可以发起重启充电桩的PUT方法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="770" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
