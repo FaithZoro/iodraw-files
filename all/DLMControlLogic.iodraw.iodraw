@@ -57,8 +57,8 @@
         <mxCell id="LbZ2jcfUeLFGl8f1YfGV-19" value="之前客户端下发的dlmEnable.json里的enable值为？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="522.5" y="330" width="175" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="LbZ2jcfUeLFGl8f1YfGV-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="595" y="478" width="50" height="30" as="geometry" />
+        <mxCell id="LbZ2jcfUeLFGl8f1YfGV-22" value="TRUE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="478" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
