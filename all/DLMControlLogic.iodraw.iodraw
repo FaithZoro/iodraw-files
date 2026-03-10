@@ -24,7 +24,7 @@
         <mxCell id="LbZ2jcfUeLFGl8f1YfGV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LbZ2jcfUeLFGl8f1YfGV-6" target="LbZ2jcfUeLFGl8f1YfGV-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LbZ2jcfUeLFGl8f1YfGV-6" value="enable" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LbZ2jcfUeLFGl8f1YfGV-6" value="enable的值为？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="300" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LbZ2jcfUeLFGl8f1YfGV-7" value="可以接收dlmLimitCommand.json" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
