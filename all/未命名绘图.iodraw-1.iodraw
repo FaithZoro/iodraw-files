@@ -24,11 +24,11 @@
         <mxCell id="LbZ2jcfUeLFGl8f1YfGV-6" value="enable" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="403" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LbZ2jcfUeLFGl8f1YfGV-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LbZ2jcfUeLFGl8f1YfGV-7" value="可以接收dlmLimitCommand.json" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LbZ2jcfUeLFGl8f1YfGV-9" value="&lt;b&gt;TRUE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="368" width="60" height="30" as="geometry" />
+          <mxGeometry x="353" y="290" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
