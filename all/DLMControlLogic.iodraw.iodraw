@@ -54,21 +54,11 @@
         <mxCell id="LbZ2jcfUeLFGl8f1YfGV-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LbZ2jcfUeLFGl8f1YfGV-19" target="LbZ2jcfUeLFGl8f1YfGV-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LbZ2jcfUeLFGl8f1YfGV-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LbZ2jcfUeLFGl8f1YfGV-19" target="LbZ2jcfUeLFGl8f1YfGV-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="417.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="730" y="418" />
-              <mxPoint x="730" y="518" />
-              <mxPoint x="558" y="518" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LbZ2jcfUeLFGl8f1YfGV-19" value="之前客户端下发的dlmEnable.json里的enable值为？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="337.5" width="175" height="160" as="geometry" />
         </mxCell>
         <mxCell id="LbZ2jcfUeLFGl8f1YfGV-22" value="TRUE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="547.5" y="502.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="497.5" y="497.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
