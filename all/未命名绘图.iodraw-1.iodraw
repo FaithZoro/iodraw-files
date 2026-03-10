@@ -18,6 +18,9 @@
         <mxCell id="LbZ2jcfUeLFGl8f1YfGV-2" value="服务器收到数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="383" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LbZ2jcfUeLFGl8f1YfGV-6" value="enable" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="403" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
