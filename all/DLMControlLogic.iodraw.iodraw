@@ -36,6 +36,13 @@
         <mxCell id="LbZ2jcfUeLFGl8f1YfGV-9" value="&lt;b&gt;TRUE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="390" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LbZ2jcfUeLFGl8f1YfGV-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LbZ2jcfUeLFGl8f1YfGV-11" target="LbZ2jcfUeLFGl8f1YfGV-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LbZ2jcfUeLFGl8f1YfGV-11" value="禁止处理dlmLimitCommand.json" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="310" width="160" height="70" as="geometry" />
         </mxCell>
