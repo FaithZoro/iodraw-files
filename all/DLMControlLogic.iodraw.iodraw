@@ -82,7 +82,7 @@
         <mxCell id="LbZ2jcfUeLFGl8f1YfGV-26" value="FALSE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="650" y="388" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LbZ2jcfUeLFGl8f1YfGV-27" value="FALSE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="LbZ2jcfUeLFGl8f1YfGV-27" value="&lt;b&gt;FALSE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="318" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LbZ2jcfUeLFGl8f1YfGV-28" value="***isDlmEnabled.json**" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
